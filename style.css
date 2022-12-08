@@ -226,14 +226,12 @@ li {
         display: flex;
         flex-direction: row;
         flex-wrap: wrap;
-        gap: 60px;
+        gap: 30px;
         margin-bottom: 100px;
     }
     
     .card {
-        width: 15%;
-        border-radius: 5px;
-        padding: 7px;
+        width: 20%;
     }
 
     .name {
