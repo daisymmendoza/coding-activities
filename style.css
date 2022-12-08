@@ -167,3 +167,26 @@ img {
     margin: auto;
     margin-bottom: 100px;
 }
+
+/* GDevelop page */
+.gdevelopSection {
+    width: 90%;
+    margin: auto;
+    margin-bottom: 100px;
+}
+
+.instructTutSection {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: left;
+    gap: 130px;
+}
+
+.gameTxt {
+    font-size: 1.1em;
+}
+
+li {
+    margin-left: 17px;
+}
