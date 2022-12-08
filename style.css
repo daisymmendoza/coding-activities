@@ -272,6 +272,13 @@ li {
     
     .convertSection {
         flex-direction: row;
-        gap: 20px;
+        gap: 30px;
+    }
+    
+    .displayInstruct {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        gap: 30px;
     }
 }
